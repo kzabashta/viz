@@ -1,0 +1,24 @@
+{
+  "name": "viz",
+  "version": "0.0.0",
+  "description": "Data visualization application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kzabashta/viz.git"
+  },
+  "keywords": [
+    "data",
+    "visualization",
+    "d3"
+  ],
+  "author": "Kosta Zabashta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kzabashta/viz/issues"
+  },
+  "homepage": "https://github.com/kzabashta/viz"
+}
